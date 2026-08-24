@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dbd7jivgdxeik"]
+
+[ext_resource type="Texture2D" uid="uid://d4eospvyo1y1i" path="res://assets/map.webp" id="1_elqb8"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Map" type="Sprite2D" parent="."]
+position = Vector2(2237, 1378)
+scale = Vector2(5.427536, 5.46063)
+texture = ExtResource("1_elqb8")
